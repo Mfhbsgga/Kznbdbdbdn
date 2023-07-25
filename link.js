@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHNFQ2pjVTBIaDVmbTlMakhibC1KOFFmWXJxZ3xBQ3Jtc0tsUktVV1l6d0ljU1cxVkJ3dll1dFdYbHEydFhKaEwxYmFlcWtaa2hqdE54ZE1UNUVWQXBKcHZBUEJvc2ZWdDZwNlA3UV9pTFg5T2lydkk4VVpqQmtPNTNjSGpCbmlIVk9qalFJXzdZRHNzcDRjV0trWQ&q=https://v.ht/zdtvV ";
+const offerLink = "vnd.youtube://openinapp.co/httql ";
